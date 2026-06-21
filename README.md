@@ -1,2 +1,14 @@
 # 500stage-lab
-HTML page archive and documentation
+
+静态页面记录中心
+
+这里是自动发布页面的存放目录，用于集中维护生成结果。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 访问备注
+
+GitHub Pages 生效可能需要短暂等待，实际状态以访问结果为准。
